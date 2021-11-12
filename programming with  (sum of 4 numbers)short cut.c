@@ -1,3 +1,4 @@
+/*adding the two integers by using c programme*/
 #include<stdio.h>
 void main()
 {
